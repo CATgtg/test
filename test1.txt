@@ -1,6 +1,10 @@
 おっぱい
 otintin
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> test3
 mergeできたか分からん
 
 <<<<<<< HEAD
@@ -33,4 +37,11 @@ test3で作業
 
 
 test3 changed
+<<<<<<< HEAD
+>>>>>>> test3
+=======
+=======
+
+test2に移動
+>>>>>>> test2
 >>>>>>> test3
